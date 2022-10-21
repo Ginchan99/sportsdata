@@ -1,0 +1,4 @@
+#clear all environment variables
+rm(list=ls())
+
+#let us load the li
