@@ -3,9 +3,9 @@
     "path": "C:/Users/tusht/OneDrive/Desktop/BDA_Datasets/SportsAnalytics/sportsAnalytics.R",
     "project_path": "sportsAnalytics.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3262857450",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1666330922390.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "32,46",
-        "scrollLine": "7"
+        "cursorPosition": "133,24",
+        "scrollLine": "125"
     },
     "folds": "",
-    "lastKnownWriteTime": 1666331646,
+    "lastKnownWriteTime": 1666337890,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1666333757799,
+    "last_content_update": 1666337890971,
     "read_only": false,
     "read_only_alternatives": []
 }
